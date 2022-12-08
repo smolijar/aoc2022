@@ -4,3 +4,4 @@ pub mod day3_rucksack;
 pub mod day4_cleanup;
 pub mod day5_cargo_crane;
 pub mod day6_signal;
+pub mod day7_dirs;
