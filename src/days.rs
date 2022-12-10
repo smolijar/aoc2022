@@ -7,3 +7,4 @@ pub mod day6_signal;
 pub mod day7_dirs;
 // pub mod day8_treehouse;
 pub mod day9_rope;
+pub mod day10_cpu;
