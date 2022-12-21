@@ -65,6 +65,6 @@ mod tests {
     #[test]
     fn test() {
         assert_eq!(droplets(&inputs::demo_input(18)), 64);
-        assert_eq!(droplets(&inputs::task_input(18)), 64);
+        assert_eq!(droplets(&inputs::task_input(18)), 4192);
     }
 }
